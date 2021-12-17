@@ -1,0 +1,57 @@
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\bin\Debug\net5.0\Programa.exe
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\bin\Debug\net5.0\Programa.deps.json
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\bin\Debug\net5.0\Programa.runtimeconfig.json
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\bin\Debug\net5.0\Programa.runtimeconfig.dev.json
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\bin\Debug\net5.0\Programa.dll
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\bin\Debug\net5.0\ref\Programa.dll
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\bin\Debug\net5.0\Programa.pdb
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\bin\Debug\net5.0\Clases.dll
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\bin\Debug\net5.0\Clases.pdb
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\obj\Debug\net5.0\Programa.csproj.AssemblyReference.cache
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\obj\Debug\net5.0\Programa.GeneratedMSBuildEditorConfig.editorconfig
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\obj\Debug\net5.0\Programa.AssemblyInfoInputs.cache
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\obj\Debug\net5.0\Programa.AssemblyInfo.cs
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\obj\Debug\net5.0\Programa.csproj.CoreCompileInputs.cache
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\obj\Debug\net5.0\Programa.dll
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\obj\Debug\net5.0\ref\Programa.dll
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\obj\Debug\net5.0\Programa.pdb
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Programa\obj\Debug\net5.0\Programa.genruntimeconfig.cache
+G:\Istea\POO\Clases\primer parcial\Concesionaria\programa\obj\Debug\net5.0\Programa.csproj.CopyComplete
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\bin\Debug\net5.0\Programa.exe
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\bin\Debug\net5.0\Programa.deps.json
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\bin\Debug\net5.0\Programa.runtimeconfig.json
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\bin\Debug\net5.0\Programa.runtimeconfig.dev.json
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\bin\Debug\net5.0\Programa.dll
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\bin\Debug\net5.0\ref\Programa.dll
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\bin\Debug\net5.0\Programa.pdb
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\bin\Debug\net5.0\Clases.dll
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\bin\Debug\net5.0\Clases.pdb
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\obj\Debug\net5.0\Programa.csproj.AssemblyReference.cache
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\obj\Debug\net5.0\Programa.GeneratedMSBuildEditorConfig.editorconfig
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\obj\Debug\net5.0\Programa.AssemblyInfoInputs.cache
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\obj\Debug\net5.0\Programa.AssemblyInfo.cs
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\obj\Debug\net5.0\Programa.csproj.CoreCompileInputs.cache
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\obj\Debug\net5.0\Programa.dll
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\obj\Debug\net5.0\ref\Programa.dll
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\obj\Debug\net5.0\Programa.pdb
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\obj\Debug\net5.0\Programa.genruntimeconfig.cache
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\programa\obj\Debug\net5.0\Programa.csproj.CopyComplete
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\bin\Debug\net5.0\Programa.exe
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\bin\Debug\net5.0\Programa.deps.json
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\bin\Debug\net5.0\Programa.runtimeconfig.json
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\bin\Debug\net5.0\Programa.runtimeconfig.dev.json
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\bin\Debug\net5.0\Programa.dll
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\bin\Debug\net5.0\ref\Programa.dll
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\bin\Debug\net5.0\Programa.pdb
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\bin\Debug\net5.0\Clases.dll
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\bin\Debug\net5.0\Clases.pdb
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\obj\Debug\net5.0\Programa.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\obj\Debug\net5.0\Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\obj\Debug\net5.0\Programa.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\obj\Debug\net5.0\Programa.AssemblyInfo.cs
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\obj\Debug\net5.0\Programa.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\obj\Debug\net5.0\Programa.csproj.CopyComplete
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\obj\Debug\net5.0\Programa.dll
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\obj\Debug\net5.0\ref\Programa.dll
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\obj\Debug\net5.0\Programa.pdb
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Programa\obj\Debug\net5.0\Programa.genruntimeconfig.cache

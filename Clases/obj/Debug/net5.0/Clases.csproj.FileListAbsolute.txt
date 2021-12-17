@@ -1,0 +1,36 @@
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Clases\bin\Debug\net5.0\Clases.deps.json
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Clases\bin\Debug\net5.0\Clases.dll
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Clases\bin\Debug\net5.0\ref\Clases.dll
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Clases\bin\Debug\net5.0\Clases.pdb
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Clases\obj\Debug\net5.0\Clases.csproj.AssemblyReference.cache
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Clases\obj\Debug\net5.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Clases\obj\Debug\net5.0\Clases.AssemblyInfoInputs.cache
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Clases\obj\Debug\net5.0\Clases.AssemblyInfo.cs
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Clases\obj\Debug\net5.0\Clases.csproj.CoreCompileInputs.cache
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Clases\obj\Debug\net5.0\Clases.dll
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Clases\obj\Debug\net5.0\ref\Clases.dll
+G:\Istea\POO\Clases\primer parcial\Concesionaria\Clases\obj\Debug\net5.0\Clases.pdb
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\Clases\bin\Debug\net5.0\Clases.deps.json
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\Clases\bin\Debug\net5.0\Clases.dll
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\Clases\bin\Debug\net5.0\ref\Clases.dll
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\Clases\bin\Debug\net5.0\Clases.pdb
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\Clases\obj\Debug\net5.0\Clases.csproj.AssemblyReference.cache
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\Clases\obj\Debug\net5.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\Clases\obj\Debug\net5.0\Clases.AssemblyInfoInputs.cache
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\Clases\obj\Debug\net5.0\Clases.AssemblyInfo.cs
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\Clases\obj\Debug\net5.0\Clases.csproj.CoreCompileInputs.cache
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\Clases\obj\Debug\net5.0\Clases.dll
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\Clases\obj\Debug\net5.0\ref\Clases.dll
+G:\Istea\POO\Clases\primer parcial\concesicionaria\Concesionaria\Clases\obj\Debug\net5.0\Clases.pdb
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Clases\bin\Debug\net5.0\Clases.deps.json
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Clases\bin\Debug\net5.0\Clases.dll
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Clases\bin\Debug\net5.0\ref\Clases.dll
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Clases\bin\Debug\net5.0\Clases.pdb
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Clases\obj\Debug\net5.0\Clases.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Clases\obj\Debug\net5.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Clases\obj\Debug\net5.0\Clases.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Clases\obj\Debug\net5.0\Clases.AssemblyInfo.cs
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Clases\obj\Debug\net5.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Clases\obj\Debug\net5.0\Clases.dll
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Clases\obj\Debug\net5.0\ref\Clases.dll
+C:\Users\Gonzalo\Documents\Programacion\POO\Concesionaria\Clases\obj\Debug\net5.0\Clases.pdb
